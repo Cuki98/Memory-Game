@@ -52,14 +52,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [YOUR ANSWER HERE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+While creating this project I faced many challenges. One of the biggest impediments I had was the lack of free time to work on the project. Being a full-time student and a full-time worker can be very time consuming and exhausting. In order to overcome this challenge, I had to plan my week ahead, do all my school projects and tasks to be able to have some free time later that week. Another challenge that I faced is my lack of knowledge in web development. Although the project itself didn’t feel difficult, I had to stop every now and then to look for some syntaxis knowledge. To overcome this challenge I decided to watch a tutorial on the basis of Javascript and HTML to get my fundamentals right. This helped me a lot because I was able to same much more time later down the road.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+As I was working on the project a lot of questions about web development came up to my mind. For example, I wanted to add a level counter that would tell the player the level they are currently on. The number of the level would of have to be updated every time the user gets a sequence right and I didn’t know which was the best way to accomplish such task. Also question such as how long a big scale project takes to finish and what are the limitations that webs have as opposed to games or computer applications. At last, but not least, I wonder how could I possibly improve the code to make more modular and manageable. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
 
+If I had more time on this project I would of have spend more time refactoring the project to make it more modular. More specifically the buttons, I would of have created a GameButtonClass that defines what a game button should be. That way I would have been able to create buttons programmatically and be able to give the players choices of how many buttons the want to play with and much more (I’m not sure if this is possible in javacript, but it’s a very common procedure in SwiftUI, Java or OOP in general). I also wanted to spend some more time working on resizing the overall look of the website and display a counter to keep track of the strikes. It also would been nice to experiment with leaderboard and databases in the website.
 
 
 ## Interview Recording URL Link
@@ -69,7 +71,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Rogelio Lopez
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
