@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Rogelio Lopez**
 
-Time spent: **#** hours spent in total
+Time spent: **8** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/strengthened-cord-duchess?path=script.js%3A127%3A117
 
 ## Required Functionality
 
@@ -42,10 +42,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+
+![webpageMemory](https://user-images.githubusercontent.com/50154289/161367627-125cf140-3dfd-45bd-a543-039081524a2a.gif)
+![memory2](https://user-images.githubusercontent.com/50154289/161367857-5da382ba-c111-4174-9fcb-df2f37249538.gif)
+![memory3](https://user-images.githubusercontent.com/50154289/161367860-d988c59a-20f2-43f2-be70-044c770dcc45.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
